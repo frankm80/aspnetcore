@@ -1,7 +1,6 @@
 // Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
-
-// Copied from https://raw.githubusercontent.com/dotnet/runtime/b45ee9d37afec0c88141053e86ccf71c6f283000/src/libraries/System.Private.CoreLib/src/System/Runtime/Versioning/PlatformAttributes.cs
+// Copied from https://github.com/dotnet/runtime/blob/5183c6e0e8e1ef726f6c61b0d8bb56fb255b698f/src/libraries/System.Private.CoreLib/src/System/Runtime/Versioning/PlatformAttributes.cs
 
 #nullable enable
 namespace System.Runtime.Versioning
